@@ -1,7 +1,7 @@
 variable "region" {
- default = "ap-south-1"
+ default = "us-east-1"
 }
 
 variable "profile" {
- default = "student.1"
+ default = "student.3"
 }

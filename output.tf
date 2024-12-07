@@ -1,3 +1,3 @@
-output "s3-varun-bucket" {
+output "s3-aman-bucket" {
  value = aws_s3_bucket.my_bucket.id
 }
